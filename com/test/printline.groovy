@@ -4,6 +4,5 @@ class Example {
 	new File("C:\DEVOPS\Groovy\address.txt").eachLine {
 	line -> println "print each line: $line";
 	}
-	
 	}
 	}
